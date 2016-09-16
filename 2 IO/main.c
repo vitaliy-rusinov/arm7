@@ -1,4 +1,4 @@
-#include <LPC23xx.H>                       /* Описание LPC23xx */
+﻿#include <LPC23xx.H>                       
 
 #define STB 26 //Port1.26
 #define CLK 27 //Port1.27
