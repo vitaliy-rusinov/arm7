@@ -1,0 +1,4 @@
+Dependencies for Project 'CANTX', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x53D7749A)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main.o --depend .\main.d)
+I (C:\Keil\ARM\Inc\Philips\LPC23xx.H)(0x51C7F17C)
+F (.\LPC2400.s)(0x53D65F09)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\lpc2400.lst --xref -o .\lpc2400.o --depend .\lpc2400.d)

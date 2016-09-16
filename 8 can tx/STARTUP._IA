@@ -1,0 +1,1 @@
+-m arm7tdmi -gdwarf2 -mthumb-interwork --MD Startup.d -IC:\Keil\ARM\INC\Philips\ -o Startup.o "Startup.s"
